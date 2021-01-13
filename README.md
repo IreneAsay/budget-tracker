@@ -1,12 +1,20 @@
 # Budget Tracker [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Demo ()
+Demo (https://desolate-refuge-22079.herokuapp.com/)
 
 ## Project Description
 
-![Screenshot]()
+This Budget Tracker application allows users to add expenses and deposits to their budget with or without a connection. While accessing the application offline, users should be able to enter deposits and enter expenses and those offline entries should be added to tracker when the application is back online.
+
+![Screenshot](/public/BT_screenshot.png)
 
 ## Table of Content
+
+- [Project Description](#project-description)
+- [User Story](#user-story)
+- [Criteria](#criteria)
+- [Questions](#questions)
+- [License](#license)
 
 ## User Story
 
